@@ -116,5 +116,12 @@ memory that inclines — but, once trained, does not dominate — the next choic
 
 ## License
 
-_No license yet — add one before relying on the code._ (Until then, default
-copyright applies: all rights reserved.)
+Copyright (C) 2026 Victor Fermino.
+
+This program is free software: you can redistribute it and/or modify it under the
+terms of the **GNU General Public License v3.0** as published by the Free Software
+Foundation. See [`LICENSE`](LICENSE) for the full text.
+
+It is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR
+PURPOSE. See the GNU General Public License for more details.
