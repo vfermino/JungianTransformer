@@ -60,7 +60,9 @@ gcc -O2 -fopenmp \
 ## Corpus
 
 The paper uses the five public-domain works of James Joyce on Project Gutenberg,
-concatenated (2,500,916 chars, vocab 82). Rebuild it with:
+concatenated (about 2.5M characters, vocabulary 82 — the exact character count
+drifts by a few as Gutenberg re-edits its files; the vocabulary is stable).
+Rebuild it with:
 
 ```sh
 python3 scripts/fetch_corpus.py        # writes corpus/joyce_all.txt
