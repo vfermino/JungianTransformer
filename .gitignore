@@ -1,0 +1,18 @@
+# build artifacts
+tf
+gc
+*.o
+*.dSYM/
+a.out
+
+# checkpoints (regenerable by training)
+*.bin
+
+# corpus (regenerable via scripts/fetch_corpus.py)
+corpus/
+
+# logs / scratch
+*.log
+
+# OS
+.DS_Store
