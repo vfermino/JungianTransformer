@@ -9,8 +9,8 @@ It is a testbed for an inference-time mechanism that lets an accumulated
 Companion code for the paper ***Remembrance, not Memory: A Homeostatic Shadow
 that Sequesters a Frozen Language Model*** (arXiv: _to appear_).
 
-> Inspired by the educational video *I Built an LLM From Scratch*
-> (<https://www.youtube.com/watch?v=YmLp8qe87A0>). The premise of this project
+> Inspired by *I Built an LLM From Scratch* by CJ (Syntax,
+> <https://www.youtube.com/watch?v=YmLp8qe87A0>). The premise of this project
 > is that as the knowledge base for building models becomes widely accessible,
 > measured small-scale experimentation is a realistic path to new ideas.
 
